@@ -33,6 +33,7 @@ Heroku (deployment platform)
 ```
 
 ## Usage
+Deployed application : https://pwatexteditors.herokuapp.com/
 
 ```md
 Clone the repository: git clone https://github.com/Renjithkumar993/PWA-texteditor
