@@ -35,9 +35,8 @@ Heroku (deployment platform)
 ## Usage
 
 ```md
-Clone the repository: git clone https://github.com/your-username/text-editor-app.git
-Navigate to the project directory: cd text-editor-app
-Install dependencies: npm install
+Clone the repository: git clone https://github.com/Renjithkumar993/PWA-texteditor
+Navigate to the project directory: cd PWA-texteditor
 Start the backend server and serve the client: npm run start
 Open your browser and access the application at http://localhost:3000
 Use the text editor to enter and edit content. It will be automatically saved to IndexedDB.
